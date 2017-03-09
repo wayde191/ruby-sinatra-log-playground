@@ -1,0 +1,6 @@
+I, [2017-03-09T14:24:43.158556 #5197]  INFO -- : [] [GET] [/] params: [{}] body: []
+I, [2017-03-09T14:24:43.170504 #5197]  INFO -- : [] [200] body: ["hello world"] headers: [{"Content-Type"=>"text/html;charset=utf-8", "Content-Length"=>"11", "X-XSS-Protection"=>"1; mode=block", "X-Content-Type-Options"=>"nosniff", "X-Frame-Options"=>"SAMEORIGIN"}]
+I, [2017-03-09T14:26:13.839106 #5216]  INFO -- : [] [GET] [/] params: [{}] body: []
+I, [2017-03-09T14:26:13.898310 #5216]  INFO -- : [] [200] body: ["hello world"] headers: [{"Content-Type"=>"text/html;charset=utf-8", "Content-Length"=>"11", "X-XSS-Protection"=>"1; mode=block", "X-Content-Type-Options"=>"nosniff", "X-Frame-Options"=>"SAMEORIGIN"}]
+I, [2017-03-09T14:27:46.076885 #5231]  INFO -- : [] [GET] [/hello] params: [{}] body: []
+I, [2017-03-09T14:27:46.089600 #5231]  INFO -- : [] [200] body: ["hello yes"] headers: [{"Content-Type"=>"text/html;charset=utf-8", "Content-Length"=>"9", "X-XSS-Protection"=>"1; mode=block", "X-Content-Type-Options"=>"nosniff", "X-Frame-Options"=>"SAMEORIGIN"}]
